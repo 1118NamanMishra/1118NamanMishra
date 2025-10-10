@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1118namanmishra&label=Profile%20views&color=0e75b6&style=flat" alt="1118namanmishra" /> </p>
 
-- 🌱 This is the latest website I developed [AtlasTravelHOuse](https://www.atlastravelhouse.com/)
+- 🌱 This is the latest website I developed [AtlasTravelHouse](https://www.atlastravelhouse.com/)
 
 - This is my Portfolio [React.js Portfolio](https://extraordinary-duckanoo-43f1eb.netlify.app/)
 
