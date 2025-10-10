@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1118namanmishra&label=Profile%20views&color=0e75b6&style=flat" alt="1118namanmishra" /> </p>
 
-- 🌱 I’m currently learning **React.js , Django, DevOps**
+- 🌱 This is the latest website I developed [AtlasTravelHOuse](https://www.atlastravelhouse.com/)
 
 - This is my Portfolio [React.js Portfolio](https://extraordinary-duckanoo-43f1eb.netlify.app/)
 
-- 💬 Ask me about **React.js ,Javascript, Django**
+- 💬 Ask me about **React.js ,Javascript, Django,  AWS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
